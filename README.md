@@ -1,2 +1,2 @@
 # Unity-Race
-Race Manager as Race Game
+Race Manager as Unity Game
