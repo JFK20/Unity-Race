@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20e05651a9c9c644f9b4a6a0543be9da, type: 3}
+  m_Name: CarMain
+  m_EditorClassIdentifier: 
+  basespeed: 1
+  baseacceleration: 1
+  basemotorDurability: 1
+  basespring: 1
+  basechasisDurability: 1
+  basegrip: 1
+  basedrag: 1
+  baseaeroDurability: 1
