@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d4dfd4aba9fe73418613204e84bae10
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carMain: {fileID: 11400000, guid: aa704fc5e5d2810439384e5dddf6cecc, type: 2}
+  - teamMain: {fileID: 11400000, guid: 5abaab080ad89ef4694dc6facb183dcc, type: 2}
+  - bar: {instanceID: 0}
+  - cheapButton: {instanceID: 0}
+  - expensiveButton: {instanceID: 0}
+  - stats: {instanceID: 0}
+  - money: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
